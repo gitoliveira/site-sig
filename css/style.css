@@ -21,6 +21,9 @@ body a,a.slide-btn,a.more{
 body a:hover{
 	text-decoration:none;
 }
+#titulo1{
+	color:white;
+}
 input[type="button"],input[type="submit"],input[type="text"]{
 	transition:0.5s all;
 	-webkit-transition:0.5s all;
@@ -417,7 +420,7 @@ width: 97%;
 }
 .item_introtext p {
 color: #fff;
-font-size: 1.1em;
+font-size: 1.3em;
 text-align: left;
 }
 .item_introtext {
@@ -450,7 +453,7 @@ color: #fff;
 line-height: 1.9em;
 }
 .bl-content.about h2 {
-font-size: 2.8em;
+font-size: 2.5em;
 color: #fff;
 }
 .inner-about {
